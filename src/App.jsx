@@ -22,7 +22,7 @@ const App = () => {
             <span className="text-xl font-bold text-gray-800">PoolRoute Pro</span>
           </div>
           <a
-            href="https://genesigonzalez.gumroad.com/l/orfmt" target="_blank" rel="noopener noreferrer"
+            href="https://poolroutepro.gumroad.com/l/orfmt" target="_blank" rel="noopener noreferrer"
             className="px-5 py-2 bg-cyan-500 text-white rounded-lg font-semibold hover:bg-cyan-600 transition-colors"
           >
             Start Free Trial
@@ -42,7 +42,7 @@ const App = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="https://genesigonzalez.gumroad.com/l/orfmt" target="_blank" rel="noopener noreferrer"
+                href="https://poolroutepro.gumroad.com/l/orfmt" target="_blank" rel="noopener noreferrer"
                 className="px-8 py-4 bg-white text-cyan-600 rounded-lg font-bold text-lg hover:bg-cyan-50 transition-colors text-center shadow-lg"
               >
                 Try It Free — No Credit Card
@@ -261,7 +261,7 @@ const App = () => {
                 </li>
               </ul>
               <a
-                href="https://genesigonzalez.gumroad.com/l/orfmt" target="_blank" rel="noopener noreferrer"
+                href="https://poolroutepro.gumroad.com/l/orfmt" target="_blank" rel="noopener noreferrer"
                 className="block w-full py-3 text-center border-2 border-cyan-500 text-cyan-600 rounded-lg font-semibold hover:bg-cyan-50 transition-colors"
               >
                 Start Free Trial
@@ -296,7 +296,7 @@ const App = () => {
                 </li>
               </ul>
               <a
-                href="https://genesigonzalez.gumroad.com/l/orfmt" target="_blank" rel="noopener noreferrer"
+                href="https://poolroutepro.gumroad.com/l/orfmt" target="_blank" rel="noopener noreferrer"
                 className="block w-full py-3 text-center bg-white text-cyan-600 rounded-lg font-semibold hover:bg-cyan-50 transition-colors"
               >
                 Get Lifetime Access
@@ -351,7 +351,7 @@ const App = () => {
             Join pool service pros who ditched the spreadsheets and expensive software.
           </p>
           <a
-            href="https://genesigonzalez.gumroad.com/l/orfmt" target="_blank" rel="noopener noreferrer"
+            href="https://poolroutepro.gumroad.com/l/orfmt" target="_blank" rel="noopener noreferrer"
             className="inline-block px-8 py-4 bg-white text-cyan-600 rounded-lg font-bold text-lg hover:bg-cyan-50 transition-colors shadow-lg"
           >
             Start Your Free 14-Day Trial
